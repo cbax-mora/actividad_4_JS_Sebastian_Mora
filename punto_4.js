@@ -1,6 +1,4 @@
 console.warn ('actividad 4 punto# 4')
-
-
 let val1=prompt("Ingrese un valor")
 val1= parseInt(val1)
 let valor2=prompt("Ingrese otro valor")
